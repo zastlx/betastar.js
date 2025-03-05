@@ -1,5 +1,5 @@
 # discontinued
-im no longer working on this project, in the future i may make a version for blacketV2
+I'm no longer working on this project, see the [version for blacket v2](https://github.com/zastlx/blacket-sdk)
 
 # betastar.js
 
